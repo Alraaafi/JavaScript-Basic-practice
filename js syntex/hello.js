@@ -1,0 +1,5 @@
+console.log('hello md. tanvir ahmed rafi')
+console.log(11)
+console.log("my roll is: "+99)
+console.log(22.55)
+console.log(77+33)
